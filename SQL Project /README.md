@@ -1,5 +1,13 @@
 # 📊 VentureInsight – Business Intelligence & Data Analytics Project
 
+## 📎 Project Files & Documentation
+
+📄 **SQL Project PDF (Full Report & Queries):**  
+👉 [View SQL Project PDF](https://drive.google.com/file/d/1jytI13zvSSiT-1qfJRxqk-cXSExvjAxO/view?usp=drive_link)  
+This PDF includes my complete SQL solutions, ER diagram explanations, analysis logic, and query outputs used in this project.
+
+---
+
 ## Overview
 This project simulates my first week as a **Data Analyst at VentureInsight**, a research firm providing data-driven insights to venture capital firms and startup investors.  
 The goal of the project was to analyze a comprehensive venture capital database and produce insights that support **investment decisions, market analysis, and strategic planning**.
@@ -113,4 +121,3 @@ Aspiring Data Analyst | Business Intelligence & Analytics
 
 ## 📌 Notes
 This project was completed as part of a structured BI Analytics program and reflects real-world analytical workflows, stakeholder-driven questions, and SQL-based insights used in venture capital research.
-
