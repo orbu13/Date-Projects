@@ -3,7 +3,7 @@
 ## 📎 Project Files & Documentation
 
 📄 **SQL Project PDF (Full Report & Queries):**  
-👉 [View SQL Project PDF](https://drive.google.com/drive/u/0/folders/1ULE_n3DSqqEXv3fWs6IT0ynxutB8SVr_)  
+👉 [View SQL Project PDF](https://drive.google.com/file/d/1N0Xkfff4mKEklW7Ebthb-rOqSoGx_qg5/view?usp=drive_link)  
 This PDF includes my complete SQL solutions, ER diagram explanations, analysis logic, and query outputs used in this project.
 
 ---
