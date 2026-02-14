@@ -1,98 +1,89 @@
-# 🛒 Ecommerce Funnel & Cohort Retention Analysis
+# Ecommerce Funnel & Cohort Retention Analysis
 
-Author: Orel Butbul  
-Role: Business Intelligence Analyst  
-Tool: Google Sheets  
-Techniques: Pivot Tables | COUNTUNIQUE | VLOOKUP | TEXT | DATEDIF
+Business Intelligence project analyzing e-commerce user behavior to evaluate funnel performance and customer retention trends using Google Sheets.
 
 ---
 
-## 📁 Project Files & Documentation
+## Project Documentation
 
-📄 **Full Report (PDF / Google Drive):**  
-https://drive.google.com/file/d/1f3t1ktjmwTAwiV987nf-9mlCnMVghYJX/view?usp=drive_link
-
-📊 **Google Sheets Analysis File (Model + Pivots):**  
-https://docs.google.com/spreadsheets/d/1oL0Jq8XwsfDSlAtn1sGfjRhpeaiaRLMNHsqmgSlyQTQ/edit?usp=sharing
+- [View Full Report (PDF)](https://drive.google.com/file/d/1f3t1ktjmwTAwiV987nf-9mlCnMVghYJX/view?usp=drive_link)
+- [View Google Sheets Analysis Model](https://docs.google.com/spreadsheets/d/1oL0Jq8XwsfDSlAtn1sGfjRhpeaiaRLMNHsqmgSlyQTQ/edit?usp=sharing)
 
 ---
 
-## 🧠 Business Objective
+## Business Objective
 
-This project analyzes e-commerce user behavior to measure **conversion performance** and **customer retention over time**.
+This analysis evaluates conversion efficiency and post-purchase retention in an e-commerce environment.
 
-It answers key business questions:
+Key questions addressed:
+
 - How effectively do product views convert into purchases?
-- Where is the biggest drop-off in the funnel?
-- How does retention change across cohorts after the first purchase?
-- What actions could improve conversion and repeat purchasing?
+- Where does the largest funnel drop-off occur?
+- How does retention change across customer cohorts?
+- What operational actions can improve conversion and repeat purchasing?
 
 ---
 
-## 🗂 Dataset Structure
+## Dataset Overview
 
-Event-level activity data (raw logs), including fields such as:
-- `user_id` (unique customer identifier)
-- `event_type` (view, cart, purchase)
-- `category_code` / `brand`
-- `price`
-- `event_date`
+Event-level activity logs including:
 
----
-
-## 🔎 Key Analysis Areas
-
-### 1) Conversion Funnel (View → Cart → Purchase)
-Built a 3-stage funnel using Pivot Tables + COUNTUNIQUE to calculate:
-- Unique users at each stage
-- Stage-to-stage conversion rates
-- Overall conversion rate
-
-### 2) Cohort Preparation
-Prepared purchase-only data and created a cohort model by:
-- Identifying each user’s **first purchase month**
-- Creating a cohort month field
-- Calculating “cohort age” (months since first purchase)
-
-### 3) Cohort Retention Analysis
-Calculated retention by cohort by measuring returning purchasers over time:
-- Cohorts grouped by first purchase month
-- Retention tracked across cohort age (Month 0, Month 1, Month 2, etc.)
-- Trends summarized into actionable insights
+- user_id (unique customer identifier)
+- event_type (view, cart, purchase)
+- category_code / brand
+- price
+- event_date
 
 ---
 
-## 🛠 Tools & Skills Used
+## Analytical Framework
 
-- Google Sheets
-- Pivot Tables (funnel + cohort tables)
-- COUNTUNIQUE (unique user calculations)
-- VLOOKUP (joining cohort fields)
-- TEXT (date formatting / month creation)
-- DATEDIF (cohort age calculation)
-- Data cleaning & transformation
-- Business interpretation & recommendations
+### Funnel Analysis (View → Cart → Purchase)
 
----
+- Built a three-stage funnel using Pivot Tables  
+- Calculated unique users per stage using COUNTUNIQUE  
+- Computed stage-to-stage and overall conversion rates  
+- Identified primary drop-off point  
 
-## ✅ Key Takeaways
+### Cohort Modeling
 
-- Funnel drop-off is strongest between **product view → cart**, indicating conversion friction early in the journey.
-- Retention declines after the first purchase across cohorts, showing the need for stronger post-purchase engagement.
-- Cohort tracking makes it easy to compare retention performance across acquisition months.
+- Isolated purchase events  
+- Identified each user’s first purchase month  
+- Created cohort month field  
+- Calculated cohort age (months since first purchase)  
 
----
+### Cohort Retention Analysis
 
-## 📌 Business Recommendations
-
-1. Improve product-to-cart conversion (product pages, CTA clarity, trust signals, shipping visibility).
-2. Reduce cart abandonment (reminder emails, incentives, streamlined checkout).
-3. Launch post-purchase retention campaigns (email/SMS flows, loyalty offers, replenishment reminders).
-4. Segment repeat behavior by category/brand to find high-LTV patterns.
+- Measured returning purchasers by cohort  
+- Tracked retention across cohort age (Month 0, Month 1, Month 2, etc.)  
+- Compared performance across acquisition periods  
 
 ---
 
-## 🧩 Project Type
+## Tools and Techniques
 
-Business Intelligence | Funnel Analytics | Cohort Retention Modeling
+- Google Sheets  
+- Pivot Tables  
+- COUNTUNIQUE  
+- VLOOKUP  
+- TEXT (date normalization)  
+- DATEDIF (cohort age calculation)  
+- Data cleaning and transformation  
+- KPI modeling and business interpretation  
 
+---
+
+## Key Findings
+
+- The largest funnel drop-off occurs between product view and cart, indicating early-stage conversion friction.
+- Retention declines after initial purchase across cohorts.
+- Cohort tracking reveals performance variation by acquisition month.
+
+---
+
+## Business Recommendations
+
+1. Improve product-to-cart conversion (optimize product pages, clarify CTAs, enhance trust signals).
+2. Reduce cart abandonment (streamlined checkout, reminder flows, targeted incentives).
+3. Strengthen post-purchase retention strategies (email automation, loyalty programs, replenishment campaigns).
+4. Segment retention by product category and brand to identify high-LTV segments.
