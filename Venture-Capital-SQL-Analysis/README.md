@@ -8,23 +8,21 @@ Business Intelligence and data analytics project analyzing venture capital fundi
 
 - [View Full Report and SQL Analysis (PDF)](https://drive.google.com/file/d/1N0Xkfff4mKEklW7Ebthb-rOqSoGx_qg5/view?usp=drive_link)
 
-The documentation includes SQL queries, ER diagram interpretation, analytical logic, and structured outputs supporting the findings.
-
 ---
 
 ## Business Objective
 
-Venture capital firms require accurate, data-backed insights to guide investment strategy and portfolio allocation.
+Venture capital firms require structured, data-driven insights to guide investment strategy and portfolio allocation.
 
-This project supports a quarterly investment report by transforming complex relational startup data into structured intelligence for:
+This project transforms complex relational startup data into actionable intelligence supporting:
 
 - Funding trend analysis  
-- Acquisition pattern evaluation  
+- Acquisition activity evaluation  
 - Market concentration assessment  
 - Investor participation analysis  
 - Risk and volatility measurement  
 
-The objective was to convert multi-table relational data into actionable strategic insights.
+The goal was to convert multi-table relational data into strategic investment insights using SQL-based analysis.
 
 ---
 
@@ -71,5 +69,5 @@ These tables were joined and analyzed to uncover cross-entity relationships and 
 
 - Funding concentration varies significantly across sectors and regions.  
 - Fund activity levels influence investment participation patterns.  
-- Market volatility can be assessed through funding dispersion analysis.  
+- Market volatility can be evaluated through funding dispersion analysis.  
 - Educational background signals correlate with startup performance trends.  
