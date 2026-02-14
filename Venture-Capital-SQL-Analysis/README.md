@@ -1,77 +1,75 @@
-# 📊 VentureInsight – Business Intelligence & Data Analytics Project
+# Venture Capital Investment Analysis
 
-## 📎 Project Files & Documentation
-
-📄 **SQL Project PDF (Full Report & Queries):**  
-👉 [View SQL Project PDF](https://drive.google.com/file/d/1N0Xkfff4mKEklW7Ebthb-rOqSoGx_qg5/view?usp=drive_link)
-
-This PDF includes my complete SQL solutions, ER diagram explanations, analysis logic, and query outputs used in this project.
+Business Intelligence and data analytics project analyzing venture capital funding activity using SQL to evaluate startup performance, funding trends, acquisitions, investor behavior, and market concentration.
 
 ---
 
-## 🧠 Business Objective
+## Project Documentation
 
-Venture capital clients rely on accurate, data-backed insights to make **multi-million-dollar investment decisions**.
+- [View Full Report and SQL Analysis (PDF)](https://drive.google.com/file/d/1N0Xkfff4mKEklW7Ebthb-rOqSoGx_qg5/view?usp=drive_link)
 
-This project supports a quarterly investment report by analyzing startup performance, funding trends, acquisitions, investor behavior, and talent signals across the global startup ecosystem.
-
-The objective was to transform complex relational data into clear, strategic insights that support **investment decisions, market analysis, and long-term portfolio strategy**.
+The documentation includes SQL queries, ER diagram interpretation, analytical logic, and structured outputs supporting the findings.
 
 ---
 
-## 🗄️ Database Structure
+## Business Objective
 
-The analysis is based on a relational database including:
+Venture capital firms require accurate, data-backed insights to guide investment strategy and portfolio allocation.
 
-- **company**
-- **fund**
-- **funding_round**
-- **investment**
-- **acquisition**
-- **people**
-- **education**
+This project supports a quarterly investment report by transforming complex relational startup data into structured intelligence for:
+
+- Funding trend analysis  
+- Acquisition pattern evaluation  
+- Market concentration assessment  
+- Investor participation analysis  
+- Risk and volatility measurement  
+
+The objective was to convert multi-table relational data into actionable strategic insights.
 
 ---
 
-## 🔍 Key Analysis Areas
+## Database Overview
+
+The relational database includes:
+
+- company  
+- fund  
+- funding_round  
+- investment  
+- acquisition  
+- people  
+- education  
+
+These tables were joined and analyzed to uncover cross-entity relationships and funding dynamics.
+
+---
+
+## Analytical Focus Areas
 
 - Startup failure rate analysis  
-- Sector funding benchmarks  
+- Sector-level funding benchmarks  
 - Acquisition trend evaluation  
 - Geographic funding concentration  
-- Funding volatility measurement  
+- Funding dispersion and volatility measurement  
 - Fund activity classification  
 - Investment strategy comparison  
 - Education impact on startup outcomes  
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools and Techniques
 
-- SQL (joins, subqueries, aggregation, filtering)
-- Data cleaning & validation
-- Exploratory data analysis
-- Business intelligence reporting
-- Data-driven storytelling
-
----
-
-## 📈 Key Takeaways
-
-- Funding concentration varies significantly by sector and geography.
-- Fund activity level influences investment participation patterns.
-- Market volatility can be measured through funding dispersion.
-- Education signals provide insight into startup failure patterns.
+- SQL (joins, subqueries, aggregations, filtering)  
+- Relational data modeling  
+- Data validation and cleaning  
+- Exploratory data analysis  
+- Business intelligence reporting  
 
 ---
 
-## 📁 Project Type
+## Key Findings
 
-**Business Intelligence / Data Analytics Portfolio Project**
-
----
-
-## 👤 Author
-
-Orel Butbul  
-Business Intellig
+- Funding concentration varies significantly across sectors and regions.  
+- Fund activity levels influence investment participation patterns.  
+- Market volatility can be assessed through funding dispersion analysis.  
+- Educational background signals correlate with startup performance trends.  
