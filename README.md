@@ -10,9 +10,9 @@ Each project simulates real-world business scenarios and demonstrates SQL, data 
 
 | Project # | Title | Description |
 |:---------:|-------|-------------|
-| 1 | [VentureInsight — SQL Investment Analysis](https://github.com/orbu13/Date-Projects/tree/main/SQL%20Project%20) | SQL-based Business Intelligence project analyzing venture capital data using complex joins, aggregations, subqueries, classification logic, and funding trend analysis to generate investment insights. |
-| 2 | [Superstore Profitability Analysis — Tableau Dashboard](https://github.com/orbu13/Date-Projects/tree/main/Tableau%20Project) | Business Intelligence dashboard analyzing retail profitability, product strategy, return risk, and advertising opportunities using Tableau, calculated fields, and relational joins. |
-| 3 | [Ecommerce Funnel & Cohort Retention Analysis — Google Sheets](https://github.com/orbu13/Date-Projects/blob/main/ecommerce-funnel-analysis-google-sheets/README.md) | Business Intelligence project analyzing e-commerce conversion performance and cohort-based customer retention using Pivot Tables, COUNTUNIQUE, VLOOKUP, and structured cohort modeling to deliver actionable growth recommendations. |
+| 1 | [VentureInsight — SQL Investment Analysis](https://github.com/orbu13/Date-Projects/tree/main/Venture-Capital-SQL-Analysis) | SQL-based Business Intelligence project analyzing venture capital data using complex joins, aggregations, subqueries, classification logic, and funding trend analysis to generate investment insights. |
+| 2 | [Superstore Profitability Analysis — Tableau Dashboard](https://github.com/orbu13/Date-Projects/tree/main/Retail-Profitability-Tableau-Dashboard) | Business Intelligence dashboard analyzing retail profitability, product strategy, return risk, and advertising opportunities using Tableau, calculated fields, and relational joins. |
+| 3 | [Ecommerce Funnel & Cohort Retention Analysis — Google Sheets](https://github.com/orbu13/Date-Projects/tree/main/Ecommerce-Funnel-Analysis-Google-Sheets) | Business Intelligence project analyzing e-commerce conversion performance and cohort-based customer retention using Pivot Tables, COUNTUNIQUE, VLOOKUP, and structured cohort modeling to deliver actionable growth recommendations. |
 
 ---
 
