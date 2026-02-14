@@ -1,36 +1,28 @@
-# 📊 Data Analytics & Business Intelligence Portfolio
+# Data Analytics & Business Intelligence Portfolio
 
-Portfolio of completed projects developed during the TripleTen Business Intelligence & Data Analytics Program.
+Collection of Business Intelligence and data analytics projects focused on transforming raw data into structured, decision-ready insights.
 
-Each project simulates real-world business scenarios and demonstrates SQL, data visualization, analytical reasoning, stakeholder-focused reporting, and business performance modeling.
-
----
-
-## 📁 Projects
-
-| Project # | Title | Description |
-|:---------:|-------|-------------|
-| 1 | [VentureInsight — SQL Investment Analysis](https://github.com/orbu13/Date-Projects/tree/main/Venture-Capital-SQL-Analysis) | SQL-based Business Intelligence project analyzing venture capital data using complex joins, aggregations, subqueries, classification logic, and funding trend analysis to generate investment insights. |
-| 2 | [Superstore Profitability Analysis — Tableau Dashboard](https://github.com/orbu13/Date-Projects/tree/main/Retail-Profitability-Tableau-Dashboard) | Business Intelligence dashboard analyzing retail profitability, product strategy, return risk, and advertising opportunities using Tableau, calculated fields, and relational joins. |
-| 3 | [Ecommerce Funnel & Cohort Retention Analysis — Google Sheets](https://github.com/orbu13/Date-Projects/tree/main/Ecommerce-Funnel-Analysis-Google-Sheets) | Business Intelligence project analyzing e-commerce conversion performance and cohort-based customer retention using Pivot Tables, COUNTUNIQUE, VLOOKUP, and structured cohort modeling to deliver actionable growth recommendations. |
+These projects demonstrate SQL-based analysis, dashboard development, KPI modeling, and performance evaluation across investment, retail, and e-commerce domains.
 
 ---
 
-## 🛠 Core Skills Demonstrated
+## Projects
 
-- SQL (Joins, Subqueries, Aggregations, Classification)
-- Funnel & Cohort Retention Analysis
-- Business Intelligence & Performance Modeling
-- Data Visualization (Tableau)
-- Google Sheets Advanced Modeling
-- Exploratory Data Analysis (EDA)
-- KPI Development
-- Executive-Level Reporting
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [Venture Capital Investment Analysis](https://github.com/orbu13/Date-Projects/tree/main/Venture-Capital-SQL-Analysis) | SQL-based analysis of venture capital funding activity evaluating startup performance, investment patterns, acquisition trends, and market concentration. |
+| 2 | [Superstore Profitability Analysis](https://github.com/orbu13/Date-Projects/tree/main/Retail-Profitability-Tableau-Dashboard) | Tableau dashboard analyzing retail profitability, margin drivers, return behavior, and geographic performance trends. |
+| 3 | [Ecommerce Funnel & Cohort Retention Analysis](https://github.com/orbu13/Date-Projects/tree/main/Ecommerce-Funnel-Analysis-Google-Sheets) | Funnel and cohort-based retention modeling using Google Sheets to evaluate conversion performance and repeat purchasing behavior. |
 
 ---
 
-## 👤 Author
+## Core Competencies
 
-Orel Butbul  
-Business Intelligence Analyst & AI Automation Specialist  
-📍 United States
+- SQL query design and relational data analysis  
+- Business Intelligence modeling and KPI development  
+- Funnel and cohort retention analysis  
+- Tableau dashboard architecture and visualization  
+- Google Sheets analytical modeling  
+- Exploratory data analysis  
+- Performance benchmarking and trend evaluation  
+- Executive-level reporting and insight communication  
