@@ -10,7 +10,7 @@ Each project simulates real-world business scenarios and demonstrates SQL, data 
 
 | Project # | Title | Description |
 |:---------:|-------|-------------|
-| 1 | [VentureInsight — SQL Investment Analysis](https://github.com/orbu13/Date-Projects/tree/main/SQL%20Project) | SQL-based Business Intelligence project analyzing venture capital data using complex joins, aggregations, subqueries, classification logic, and funding trend analysis to generate investment insights. |
+| 1 | [VentureInsight — SQL Investment Analysis](https://github.com/orbu13/Date-Projects/tree/main/SQL%20Project%20) | SQL-based Business Intelligence project analyzing venture capital data using complex joins, aggregations, subqueries, classification logic, and funding trend analysis to generate investment insights. |
 | 2 | [Superstore Profitability Analysis — Tableau Dashboard](https://github.com/orbu13/Date-Projects/tree/main/Tableau%20Project) | Business Intelligence dashboard analyzing retail profitability, product strategy, return risk, and advertising opportunities using Tableau, calculated fields, and relational joins. |
 
 ---
