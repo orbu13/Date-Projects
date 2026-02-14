@@ -1,51 +1,76 @@
 # 📊 Superstore – Business Intelligence & Data Visualization Project
-Business Intelligence & Data Visualization Project
 
 ## 📎 Project Files & Documentation
 
 📄 **Superstore Profitability Analysis PDF (Full Report & Dashboard Walkthrough):**  
-👉 [View Superstore Profitability Analysis PDF](https://drive.google.com/file/d/1i5xwUqv0a0_nwsVGlGPHwKhtlYVEWjH1/view?usp=drive_link  )  
-*This PDF includes the complete dashboard walkthrough, data preparation steps, analytical logic, visualization decisions, KPI definitions, and executive insights from this project.*
+👉 [View Superstore Profitability Analysis PDF](https://drive.google.com/file/d/1i5xwUqv0a0_nwsVGlGPHwKhtlYVEWjH1/view?usp=drive_link)
+
+This PDF includes my complete dashboard walkthrough, data preparation steps, analytical logic, visualization design decisions, KPI definitions, and executive-level insights derived from this project.
 
 ---
 
-## 🧠 Overview
+## 🧠 Business Objective
 
-This project simulates a real-world retail business intelligence engagement.
+Retail executives require clear visibility into profitability drivers, loss sources, advertising efficiency, and product return behavior.
 
-Using Tableau, I analyzed transactional retail data to uncover key drivers of:
-- Profitability
-- Loss
-- Advertising efficiency
-- Product returns
-- Geographic performance
+This project transforms transactional retail data into actionable executive-level insights that support pricing strategy, marketing allocation, inventory optimization, and operational performance improvement.
 
-The goal was to transform raw operational data into actionable business insights.
+The objective was to convert raw operational data into structured business intelligence through interactive dashboards and KPI modeling.
 
 ---
 
-## 🔎 Key Analysis Areas
+## 🗄️ Dataset Structure
+
+The analysis is based on the Superstore dataset including:
+
+- Orders  
+- Customers  
+- Products  
+- Categories & Sub-Categories  
+- Sales & Profit Metrics  
+- Geographic Data  
+- Returns  
+
+---
+
+## 🔍 Key Analysis Areas
 
 - Profit & loss segmentation  
 - Product-level performance analysis  
-- High return rate detection  
+- High-return detection  
 - Customer profitability patterns  
 - Advertising ROI evaluation  
 - Geographic sales performance  
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Skills Used
 
-- Tableau  
-- Data Visualization  
-- Dashboard Design  
-- KPI Development  
-- Business Storytelling  
-- Performance Segmentation  
+- Tableau
+- Dashboard design
+- KPI development
+- Data modeling
+- Business intelligence analysis
+- Executive storytelling
 
 ---
 
-## 📌 Outcome
+## 📈 Key Takeaways
 
-Delivered an interactive executive dashboard enabling data-driven retail strategy decisions.
+- Profitability varies significantly across product categories.
+- High-return products create margin erosion risk.
+- Geographic performance disparities reveal expansion opportunities.
+- Data visualization enhances executive decision clarity.
+
+---
+
+## 📁 Project Type
+
+**Business Intelligence / Data Visualization Portfolio Project**
+
+---
+
+## 👤 Author
+
+Orel Butbul  
+Business Intelligence Analyst | Data Visualization
