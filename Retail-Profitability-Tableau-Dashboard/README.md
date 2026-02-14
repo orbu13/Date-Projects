@@ -1,6 +1,6 @@
 # Superstore Profitability Analysis
 
-Business Intelligence and data visualization project analyzing retail performance using Tableau to identify profitability drivers, loss sources, return behavior, and geographic performance trends.
+Business Intelligence and data visualization project analyzing retail performance using Tableau to evaluate profitability drivers, margin erosion, return behavior, and geographic sales trends.
 
 ---
 
@@ -8,21 +8,21 @@ Business Intelligence and data visualization project analyzing retail performanc
 
 - [View Full Report and Dashboard Walkthrough (PDF)](https://drive.google.com/file/d/1i5xwUqv0a0_nwsVGlGPHwKhtlYVEWjH1/view?usp=drive_link)
 
-The documentation includes dashboard walkthrough, data preparation steps, KPI definitions, analytical framework, and executive-level insights.
-
 ---
 
 ## Business Objective
 
-Retail leadership requires visibility into:
+Retail leadership requires structured visibility into performance drivers affecting revenue, margin, and operational efficiency.
 
-- Profitability drivers and margin erosion  
-- Product-level performance  
-- Advertising effectiveness  
-- Customer return behavior  
-- Geographic sales distribution  
+This project transforms transactional retail data into actionable business intelligence supporting:
 
-The objective of this project was to transform transactional retail data into structured business intelligence through interactive dashboard modeling and KPI analysis.
+- Profitability analysis  
+- Product-level performance evaluation  
+- Advertising effectiveness assessment  
+- Return behavior monitoring  
+- Geographic performance benchmarking  
+
+The objective was to convert raw operational data into executive-ready insights through interactive dashboard modeling and KPI development.
 
 ---
 
@@ -57,7 +57,7 @@ The analysis is based on the Superstore dataset, including:
 - Dashboard architecture and visualization design  
 - KPI development and metric modeling  
 - Data transformation and aggregation  
-- Business interpretation and executive reporting  
+- Business intelligence reporting  
 
 ---
 
@@ -65,5 +65,5 @@ The analysis is based on the Superstore dataset, including:
 
 - Profitability varies significantly across product categories and sub-categories.  
 - High-return products contribute to margin erosion risk.  
-- Geographic disparities reveal regional expansion and optimization opportunities.  
-- Interactive dashboards improve executive-level visibility into performance drivers.  
+- Geographic disparities reveal regional optimization and expansion opportunities.  
+- Interactive dashboards improve executive visibility into performance drivers.  
