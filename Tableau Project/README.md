@@ -1,4 +1,4 @@
-# 📈 Superstore Profitability Analysis
+# 📊 Superstore – Business Intelligence & Data Visualization Project
 Business Intelligence & Data Visualization Project
 
 ## 📎 Project Files & Documentation
